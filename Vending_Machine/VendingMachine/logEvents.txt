@@ -1,0 +1,4 @@
+2019-10-13T14:25:45.928 ::: >File "items.db" does not exist.
+2019-10-13T14:25:46.065 ::: >Please add the file to the directory and restart the program.
+2019-10-13T14:26:11.420 ::: >File "items.db" does not exist.
+2019-10-13T14:26:11.541 ::: >Please add the file to the directory and restart the program.

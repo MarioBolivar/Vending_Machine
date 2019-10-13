@@ -17,12 +17,8 @@ public class Main {
      */
     public static void main(String[] args) {
 
-        /*
-         * Creating file manager object..
-         * Checks, files integrity, loads items into memory
-         */
-        DataManager data = new DataManager("items.db", "logEvents.txt");
-
+        //Initialize vending machine
+        new VendingMachine();
     }
 
 }

@@ -1,4 +1,518 @@
-2019-10-13T14:25:45.928 ::: >File "items.db" does not exist.
-2019-10-13T14:25:46.065 ::: >Please add the file to the directory and restart the program.
-2019-10-13T14:26:11.420 ::: >File "items.db" does not exist.
-2019-10-13T14:26:11.541 ::: >Please add the file to the directory and restart the program.
+2019-10-13T17:06:54.399 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.539 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:06:54.549 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.557 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:06:54.565 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.574 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:06:54.587 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.599 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:06:54.609 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.617 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:06:54.629 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.637 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:06:54.649 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.656 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:06:54.666 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.677 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:06:54.701 ::: >Item read from: "items.db":
+2019-10-13T17:06:54.714 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:06:54.725 ::: >Finished loading from "items.db"
+2019-10-13T17:07:10.182 ::: >java.lang.Exception: Invalid input in main menu.
+2019-10-13T17:07:12.198 ::: >Printing all items to console..
+2019-10-13T17:07:12.209 ::: >Done!
+2019-10-13T17:08:27.943 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.108 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:08:28.113 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.125 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:08:28.141 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.160 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:08:28.185 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.203 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:08:28.219 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.232 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:08:28.252 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.264 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:08:28.277 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.296 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:08:28.313 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.326 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:08:28.339 ::: >Item read from: "items.db":
+2019-10-13T17:08:28.354 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:08:28.369 ::: >Finished loading from "items.db"
+2019-10-13T17:08:31.271 ::: >Printing all items to console..
+2019-10-13T17:08:31.285 ::: >Done!
+2019-10-13T17:09:17.579 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.715 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:09:17.722 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.734 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:09:17.745 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.753 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:09:17.764 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.775 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:09:17.785 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.794 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:09:17.802 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.817 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:09:17.830 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.842 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:09:17.852 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.865 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:09:17.877 ::: >Item read from: "items.db":
+2019-10-13T17:09:17.887 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:09:17.902 ::: >Finished loading from "items.db"
+2019-10-13T17:09:43.579 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.709 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:09:43.725 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.738 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:09:43.751 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.763 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:09:43.777 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.790 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:09:43.796 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.809 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:09:43.814 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.829 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:09:43.844 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.858 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:09:43.865 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.879 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:09:43.895 ::: >Item read from: "items.db":
+2019-10-13T17:09:43.910 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:09:43.926 ::: >Finished loading from "items.db"
+2019-10-13T17:09:49.088 ::: >java.lang.Exception: Invalid input in main menu.
+2019-10-13T17:09:58.042 ::: >Printing all items to console..
+2019-10-13T17:09:58.051 ::: >Done!
+2019-10-13T17:10:04.880 ::: >Exiting...
+2019-10-13T17:25:27.556 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.697 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:25:27.708 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.718 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:25:27.728 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.742 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:25:27.753 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.766 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:25:27.776 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.785 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:25:27.793 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.807 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:25:27.818 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.827 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:25:27.836 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.849 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:25:27.857 ::: >Item read from: "items.db":
+2019-10-13T17:25:27.872 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:25:27.884 ::: >Finished loading from "items.db"
+2019-10-13T17:25:37.019 ::: >Printing all items to console..
+2019-10-13T17:25:37.030 ::: >Done!
+2019-10-13T17:25:40.132 ::: >java.lang.Exception: Invalid input in item selection.
+2019-10-13T17:25:42.147 ::: >Printing all items to console..
+2019-10-13T17:25:42.160 ::: >Done!
+2019-10-13T17:26:12.518 ::: >Printing all items to console..
+2019-10-13T17:26:12.527 ::: >Done!
+2019-10-13T17:26:16.239 ::: >java.lang.Exception: Invalid input in item selection.
+2019-10-13T17:26:18.255 ::: >Printing all items to console..
+2019-10-13T17:26:18.262 ::: >Done!
+2019-10-13T17:27:06.272 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.447 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:27:06.462 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.474 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:27:06.488 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.494 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:27:06.507 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.518 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:27:06.528 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.540 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:27:06.549 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.559 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:27:06.570 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.585 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:27:06.594 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.607 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:27:06.615 ::: >Item read from: "items.db":
+2019-10-13T17:27:06.627 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:27:06.640 ::: >Finished loading from "items.db"
+2019-10-13T17:27:16.265 ::: >Printing all items to console..
+2019-10-13T17:27:16.279 ::: >Done!
+2019-10-13T17:27:52.184 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.362 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:27:52.371 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.379 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:27:52.403 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.413 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:27:52.429 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.443 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:27:52.458 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.472 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:27:52.484 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.497 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:27:52.511 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.528 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:27:52.543 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.557 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:27:52.571 ::: >Item read from: "items.db":
+2019-10-13T17:27:52.581 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:27:52.606 ::: >Finished loading from "items.db"
+2019-10-13T17:27:56.181 ::: >Printing all items to console..
+2019-10-13T17:27:56.208 ::: >Done!
+2019-10-13T17:28:03.130 ::: >Printing all items to console..
+2019-10-13T17:28:03.140 ::: >Done!
+2019-10-13T17:28:06.449 ::: >java.lang.Exception: Invalid input in item selection.
+2019-10-13T17:28:08.471 ::: >Printing all items to console..
+2019-10-13T17:28:08.486 ::: >Done!
+2019-10-13T17:30:18.581 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.729 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:30:18.739 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.749 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:30:18.762 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.776 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:30:18.788 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.798 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:30:18.813 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.830 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:30:18.842 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.851 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:30:18.865 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.878 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:30:18.893 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.906 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:30:18.917 ::: >Item read from: "items.db":
+2019-10-13T17:30:18.931 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:30:18.944 ::: >Finished loading from "items.db"
+2019-10-13T17:30:21.343 ::: >Printing all items to console..
+2019-10-13T17:30:21.360 ::: >Done!
+2019-10-13T17:30:29.391 ::: >Printing all items to console..
+2019-10-13T17:30:29.409 ::: >Done!
+2019-10-13T17:31:59.853 ::: >Item read from: "items.db":
+2019-10-13T17:31:59.976 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:31:59.986 ::: >Item read from: "items.db":
+2019-10-13T17:31:59.998 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:32:00.013 ::: >Item read from: "items.db":
+2019-10-13T17:32:00.030 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:32:00.044 ::: >Item read from: "items.db":
+2019-10-13T17:32:00.053 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:32:00.064 ::: >Item read from: "items.db":
+2019-10-13T17:32:00.074 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:32:00.088 ::: >Item read from: "items.db":
+2019-10-13T17:32:00.103 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:32:00.115 ::: >Item read from: "items.db":
+2019-10-13T17:32:00.122 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:32:00.135 ::: >Item read from: "items.db":
+2019-10-13T17:32:00.148 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:32:00.155 ::: >Item read from: "items.db":
+2019-10-13T17:32:00.168 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:32:00.178 ::: >Finished loading from "items.db"
+2019-10-13T17:32:02.466 ::: >Printing all items to console..
+2019-10-13T17:32:02.476 ::: >Done!
+2019-10-13T17:32:05.785 ::: >Printing all items to console..
+2019-10-13T17:32:05.800 ::: >Done!
+2019-10-13T17:35:48.397 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.520 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:35:48.532 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.538 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:35:48.552 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.560 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:35:48.570 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.582 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:35:48.588 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.601 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:35:48.612 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.622 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:35:48.635 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.648 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:35:48.654 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.665 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:35:48.674 ::: >Item read from: "items.db":
+2019-10-13T17:35:48.686 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:35:48.700 ::: >Finished loading from "items.db"
+2019-10-13T17:35:54.369 ::: >Printing all items to console..
+2019-10-13T17:35:54.387 ::: >Done!
+2019-10-13T17:35:56.580 ::: >Exiting...
+2019-10-13T17:54:43.212 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.425 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:54:43.444 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.460 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:54:43.473 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.488 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:54:43.504 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.521 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:54:43.534 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.552 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:54:43.567 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.583 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:54:43.602 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.620 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:54:43.639 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.658 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:54:43.684 ::: >Item read from: "items.db":
+2019-10-13T17:54:43.720 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:54:43.744 ::: >Finished loading from "items.db"
+2019-10-13T17:55:46.382 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.510 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:55:46.522 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.528 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:55:46.540 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.551 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:55:46.559 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.571 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:55:46.577 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.588 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:55:46.594 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.608 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:55:46.622 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.628 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:55:46.639 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.646 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:55:46.658 ::: >Item read from: "items.db":
+2019-10-13T17:55:46.673 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:55:46.682 ::: >Finished loading from "items.db"
+2019-10-13T17:55:54.787 ::: >java.lang.Exception: Invalid input in fund input.
+2019-10-13T17:55:59.112 ::: >java.lang.Exception: Invalid input in fund input.
+2019-10-13T17:59:08.391 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.519 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T17:59:08.533 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.542 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T17:59:08.551 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.560 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T17:59:08.569 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.582 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T17:59:08.591 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.603 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T17:59:08.624 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.634 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T17:59:08.647 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.658 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T17:59:08.669 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.683 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T17:59:08.699 ::: >Item read from: "items.db":
+2019-10-13T17:59:08.714 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T17:59:08.728 ::: >Finished loading from "items.db"
+2019-10-13T18:04:44.353 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.477 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:04:44.489 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.501 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:04:44.513 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.525 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:04:44.536 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.544 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:04:44.554 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.564 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:04:44.572 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.582 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:04:44.589 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.601 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:04:44.607 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.619 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:04:44.626 ::: >Item read from: "items.db":
+2019-10-13T18:04:44.637 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:04:44.648 ::: >Finished loading from "items.db"
+2019-10-13T18:04:53.089 ::: >java.lang.Exception: Invalid input in fund input.
+2019-10-13T18:04:58.312 ::: >java.lang.Exception: Invalid input in fund input.
+2019-10-13T18:05:12.301 ::: >java.lang.Exception: Invalid input in fund input.
+2019-10-13T18:06:17.758 ::: >Item read from: "items.db":
+2019-10-13T18:06:17.897 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:06:17.910 ::: >Item read from: "items.db":
+2019-10-13T18:06:17.925 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:06:17.946 ::: >Item read from: "items.db":
+2019-10-13T18:06:17.959 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:06:17.978 ::: >Item read from: "items.db":
+2019-10-13T18:06:17.992 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:06:18.008 ::: >Item read from: "items.db":
+2019-10-13T18:06:18.024 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:06:18.040 ::: >Item read from: "items.db":
+2019-10-13T18:06:18.054 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:06:18.064 ::: >Item read from: "items.db":
+2019-10-13T18:06:18.088 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:06:18.108 ::: >Item read from: "items.db":
+2019-10-13T18:06:18.126 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:06:18.142 ::: >Item read from: "items.db":
+2019-10-13T18:06:18.158 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:06:18.182 ::: >Finished loading from "items.db"
+2019-10-13T18:06:54.640 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.798 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:06:54.813 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.826 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:06:54.840 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.856 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:06:54.871 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.886 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:06:54.898 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.907 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:06:54.922 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.938 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:06:54.953 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.967 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:06:54.981 ::: >Item read from: "items.db":
+2019-10-13T18:06:54.991 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:06:55.005 ::: >Item read from: "items.db":
+2019-10-13T18:06:55.020 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:06:55.029 ::: >Finished loading from "items.db"
+2019-10-13T18:08:36.347 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.606 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:08:36.630 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.657 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:08:36.678 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.693 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:08:36.712 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.744 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:08:36.765 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.794 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:08:36.842 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.882 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:08:36.902 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.939 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:08:36.958 ::: >Item read from: "items.db":
+2019-10-13T18:08:36.976 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:08:36.997 ::: >Item read from: "items.db":
+2019-10-13T18:08:37.017 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:08:37.042 ::: >Finished loading from "items.db"
+2019-10-13T18:08:43.023 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.297 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:08:43.324 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.343 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:08:43.364 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.391 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:08:43.411 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.429 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:08:43.447 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.466 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:08:43.499 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.521 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:08:43.544 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.564 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:08:43.585 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.595 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:08:43.620 ::: >Item read from: "items.db":
+2019-10-13T18:08:43.637 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:08:43.649 ::: >Finished loading from "items.db"
+2019-10-13T18:08:48.068 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.296 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:08:48.326 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.345 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:08:48.362 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.378 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:08:48.397 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.411 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:08:48.430 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.445 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:08:48.463 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.477 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:08:48.493 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.513 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:08:48.536 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.553 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:08:48.576 ::: >Item read from: "items.db":
+2019-10-13T18:08:48.594 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:08:48.609 ::: >Finished loading from "items.db"
+2019-10-13T18:08:52.806 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.043 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:08:53.061 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.079 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:08:53.097 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.115 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:08:53.136 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.158 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:08:53.175 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.197 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:08:53.211 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.232 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:08:53.251 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.272 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:08:53.290 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.306 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:08:53.331 ::: >Item read from: "items.db":
+2019-10-13T18:08:53.345 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:08:53.368 ::: >Finished loading from "items.db"
+2019-10-13T18:09:54.474 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.639 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:09:54.653 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.665 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:09:54.679 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.689 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:09:54.705 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.716 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:09:54.728 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.741 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:09:54.754 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.766 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:09:54.780 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.795 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:09:54.809 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.822 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:09:54.833 ::: >Item read from: "items.db":
+2019-10-13T18:09:54.854 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:09:54.871 ::: >Finished loading from "items.db"
+2019-10-13T18:42:32.226 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.375 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:42:32.389 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.402 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:42:32.408 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.420 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:42:32.426 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.441 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:42:32.452 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.458 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:42:32.471 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.485 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:42:32.491 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.505 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:42:32.517 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.524 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:42:32.536 ::: >Item read from: "items.db":
+2019-10-13T18:42:32.542 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:42:32.554 ::: >Finished loading from "items.db"
+2019-10-13T18:43:07.397 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.527 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:43:07.539 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.551 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:43:07.564 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.571 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:43:07.586 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.596 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:43:07.604 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.615 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:43:07.623 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.636 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:43:07.649 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.665 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:43:07.678 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.687 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:43:07.697 ::: >Item read from: "items.db":
+2019-10-13T18:43:07.706 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:43:07.718 ::: >Finished loading from "items.db"
+2019-10-13T18:43:36.384 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.546 ::: >1. Item: Dr. Fizz Description: The most refreshing of all! Price: $1.5 Quantity: 15
+2019-10-13T18:43:36.560 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.572 ::: >2. Item: Kookie Koola Description: Enjoy a chocolatey tingle. Price: $1.25 Quantity: 15
+2019-10-13T18:43:36.591 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.606 ::: >3. Item: Dasandra Description: Every drink is bliss. Price: $1.75 Quantity: 15
+2019-10-13T18:43:36.622 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.635 ::: >4. Item: Spryte Description: Fizzy goodness! Price: $1.5 Quantity: 15
+2019-10-13T18:43:36.646 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.664 ::: >5. Item: Diet Kola Description: Healthy and delicious! Price: $1.25 Quantity: 15
+2019-10-13T18:43:36.680 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.694 ::: >6. Item: PowrAide Description: Get your hydration on! Price: $1.5 Quantity: 15
+2019-10-13T18:43:36.708 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.716 ::: >7. Item: Hill Dew Description: Mmm... Lemony. Price: $1.25 Quantity: 15
+2019-10-13T18:43:36.743 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.760 ::: >8. Item: Pepsy Description: Aww yeah! Price: $1.5 Quantity: 15
+2019-10-13T18:43:36.776 ::: >Item read from: "items.db":
+2019-10-13T18:43:36.796 ::: >9. Item: Hour Maid Description: Get your OJ on! Price: $1.75 Quantity: 15
+2019-10-13T18:43:36.811 ::: >Finished loading from "items.db"
+2019-10-13T18:43:44.018 ::: >Printing all items to console..
+2019-10-13T18:43:44.031 ::: >Done!
+2019-10-13T18:43:54.980 ::: >Printing all items to console..
+2019-10-13T18:43:54.991 ::: >Done!
+2019-10-13T18:44:01.817 ::: >Printing all items to console..
+2019-10-13T18:44:01.826 ::: >Done!
+2019-10-13T18:44:18.507 ::: >Printing all items to console..
+2019-10-13T18:44:18.516 ::: >Done!
+2019-10-13T18:44:23.829 ::: >Printing all items to console..
+2019-10-13T18:44:23.846 ::: >Done!
+2019-10-13T18:44:41.550 ::: >Printing all items to console..
+2019-10-13T18:44:41.559 ::: >Done!
+2019-10-13T18:44:44.664 ::: >Printing all items to console..
+2019-10-13T18:44:44.685 ::: >Done!
+2019-10-13T18:45:27.496 ::: >Printing all items to console..
+2019-10-13T18:45:27.507 ::: >Done!
+2019-10-13T18:45:32.019 ::: >java.lang.Exception: Invalid input in fund input.
+2019-10-13T18:45:44.377 ::: >Exiting...

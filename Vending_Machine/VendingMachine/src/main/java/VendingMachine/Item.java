@@ -10,6 +10,7 @@ package VendingMachine;
  */
 public class Item {
 
+    private int index;
     private String title;
     private String description;
     private double price;
@@ -22,11 +23,22 @@ public class Item {
      * @param price
      * @param quantity
      */
-    public Item(String title, String description, double price, int quantity) {
+    public Item(int index, String title, String description, double price, int quantity) {
+        this.index = index;
         this.title = title;
         this.description = description;
         this.price = price;
         this.quantity = quantity;
+    }
+
+    /**
+     * <h1>setIndex</h1>
+     * Set new item index.
+     *
+     * @param index
+     */
+    public void setTitle(int index) {
+        this.index = index;
     }
 
     /**
@@ -67,6 +79,16 @@ public class Item {
      */
     public void setQuantity(int quantity) {
         this.quantity = quantity;
+    }
+
+    /**
+     * <h1>getIndex</h1>
+     * Get the item's index.
+     *
+     * @return int This returns the item's index.
+     */
+    public int getIndex() {
+        return index;
     }
 
     /**
@@ -117,7 +139,7 @@ public class Item {
      */
     @Override
     public String toString() {
-        return "Item: " + title + "\nDescription: " + description + "\nPrice: $"
-                + price + "\nQuantity: " + quantity;
+        return index + ". Item: " + title + " Description: " + description + " Price: $"
+                + price + " Quantity: " + quantity;
     }
 }
